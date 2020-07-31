@@ -1,0 +1,55 @@
+.header-top {
+  background-color: rgb(246, 247, 249);
+}
+
+.sectionbody {
+  background: url(../assets/images/rapha.jpg);
+  min-height: 800px;
+  background-color: rgb(246, 247, 249);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-size: 500px;
+  background-position: left 50px;
+  overflow: hidden;
+}
+
+.sectionbody2 {
+  min-height: 200px;
+  background: transparent;
+  background-size: cover;
+  background-size: 900px;
+}
+/*
+@media screen and (max-width: 991px) {
+  .sectionbody {
+    background: url(../assets/images/rapha.jpg);
+    min-height: 500px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+} */
+
+.transparente {
+  background-color: transparent;
+}
+
+.container {
+  background-color: transparent;
+}
+
+.containerlogo {
+  width: 400px;
+  height: 200px;
+  background: saddlebrown;
+}
+
+.imglogo {
+  display: block;
+  align-content: center;
+}
+
+.header2 {
+  margin-left: 100px;
+}

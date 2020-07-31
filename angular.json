@@ -24,6 +24,8 @@
               "src/assets"
             ],
             "styles": [
+              "./node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "./node_modules/ngx-bootstrap/datepicker/bs-datepicker.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -88,6 +90,8 @@
               "src/assets"
             ],
             "styles": [
+              "./node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "./node_modules/ngx-bootstrap/datepicker/bs-datepicker.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "rafasuethy"
+    }
+  },
+  "defaultProject": "rafasuethy",
+  "cli": {
+    "analytics": "c6859eca-6741-4edd-809b-0c305a8ba2ec"
+  }
 }
