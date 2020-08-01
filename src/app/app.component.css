@@ -1,6 +1,12 @@
 .header-top {
   background-color: rgb(246, 247, 249);
 }
+.posisao {
+  display: block;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 
 .sectionbody {
   background: url(../assets/images/rapha.jpg);
@@ -37,12 +43,6 @@
 
 .container {
   background-color: transparent;
-}
-
-.containerlogo {
-  width: 400px;
-  height: 200px;
-  background: saddlebrown;
 }
 
 .imglogo {
